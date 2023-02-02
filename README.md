@@ -12,4 +12,4 @@ Here's what I've been publishing on [my blog](https://tech.osteel.me) lately (yo
 * **[05/07/2020]** [Docker for local web development, conclusion: where to go from here](https://tech.osteel.me/posts/docker-for-local-web-development-conclusion-where-to-go-from-here "Docker for local web development, conclusion: where to go from here")
 * **[07/06/2020]** [Docker for local web development, part 8: scheduled tasks](https://tech.osteel.me/posts/docker-for-local-web-development-part-8-scheduled-tasks "Docker for local web development, part 8: scheduled tasks")<!-- /posts -->
 
-I also work as an independent contractor – you might want to check out my [CV](https://drive.google.com/file/d/1pzToeB4IRDmLIvqNbBx38E6S9g3-oFV5) and reach out on [LinkedIn](https://www.linkedin.com/in/yannickchenot/).
+I also work as an independent contractor – you might want to check out my [CV](https://drive.google.com/file/d/18Nrn5gWOYQv8B_OqswQVGc8VCreYW-VO) and reach out on [LinkedIn](https://www.linkedin.com/in/yannickchenot/).
