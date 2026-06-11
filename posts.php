@@ -4,13 +4,12 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Load the RSS feed
-$feed = Feed::loadRss('https://tech.osteel.me/feeds/rss.xml')->toArray();
+$feed = Feed::loadRss('https://yellowraincoat.co.uk/blog/feed/rss/')->toArray();
 
 // Generate the list of blog posts
 $posts = '';
 foreach (array_slice($feed['item'], 0, 5) as $post) {
-    $date   = date('d/m/Y', strtotime($post['pubDate']));
-    $posts .= sprintf("\n* **[%s]** [%s](%s \"%s\")", $date, $post['title'], $post['link'], $post['title']);
+    $posts .= sprintf("\n* [%s](%s \"%s\")", $post['title'], $post['link'], $post['title']);
 }
 
 // Generate the new content
