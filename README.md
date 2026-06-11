@@ -4,11 +4,11 @@ I'm Yannick, an independent product engineer based in Brighton, UK.
 
 Here's what I've been publishing on [my company's blog](https://yellowraincoat.co.uk/blog/) lately:
 <!-- posts -->
-* **[09/08/2023]** [Company website launch, Dime series wrap-up and other news](https://tech.osteel.me/posts/company-website-launch-dime-series-wrap-up-and-other-news "Company website launch, Dime series wrap-up and other news")
-* **[09/07/2023]** [Building a PHP CLI tool using DDD and Event Sourcing: distribution](https://tech.osteel.me/posts/building-a-php-cli-tool-using-ddd-and-event-sourcing-distribution "Building a PHP CLI tool using DDD and Event Sourcing: distribution")
-* **[17/05/2023]** [Building a PHP CLI tool using DDD and Event Sourcing: getting started with EventSauce](https://tech.osteel.me/posts/building-a-php-cli-tool-using-ddd-and-event-sourcing-getting-started-with-eventsauce "Building a PHP CLI tool using DDD and Event Sourcing: getting started with EventSauce")
-* **[03/05/2023]** [Building a PHP CLI tool using DDD and Event Sourcing: setting up Laravel Zero](https://tech.osteel.me/posts/building-a-php-cli-tool-using-ddd-and-event-sourcing-setting-up-laravel-zero "Building a PHP CLI tool using DDD and Event Sourcing: setting up Laravel Zero")
-* **[04/04/2023]** [Building a PHP CLI tool using DDD and Event Sourcing: software design](https://tech.osteel.me/posts/building-a-php-cli-tool-using-ddd-and-event-sourcing-software-design "Building a PHP CLI tool using DDD and Event Sourcing: software design")<!-- /posts -->
+* [What are Evals Anyway?](https://yellowraincoat.co.uk/blog/what-are-evals-anyway "What are Evals Anyway?")
+* [Caching Static Pages in a Laravel Application](https://yellowraincoat.co.uk/blog/caching-static-pages-in-a-laravel-application "Caching Static Pages in a Laravel Application")
+* [Why I’m Building PixelWatcher](https://yellowraincoat.co.uk/blog/why-im-building-pixelwatcher "Why I’m Building PixelWatcher")
+* [Animate your Logo with Remotion and Claude Code](https://yellowraincoat.co.uk/blog/animate-your-logo-with-remotion-and-claude-code "Animate your Logo with Remotion and Claude Code")
+* [Another Hat in the Ring](https://yellowraincoat.co.uk/blog/another-hat-in-the-ring "Another Hat in the Ring")<!-- /posts -->
 
 You can also find me on:
 
