@@ -4,11 +4,11 @@ I'm Yannick, an independent product engineer based in Brighton, UK.
 
 Here's what I've been publishing on [my company's blog](https://yellowraincoat.co.uk/blog/) lately:
 <!-- posts -->
+* [How to Train Your AI: A Short Tale of Context Engineering](https://yellowraincoat.co.uk/blog/how-to-train-your-ai-a-short-tale-of-context-engineering "How to Train Your AI: A Short Tale of Context Engineering")
 * [What are Evals Anyway?](https://yellowraincoat.co.uk/blog/what-are-evals-anyway "What are Evals Anyway?")
 * [Caching Static Pages in a Laravel Application](https://yellowraincoat.co.uk/blog/caching-static-pages-in-a-laravel-application "Caching Static Pages in a Laravel Application")
 * [Why I’m Building PixelWatcher](https://yellowraincoat.co.uk/blog/why-im-building-pixelwatcher "Why I’m Building PixelWatcher")
-* [Animate your Logo with Remotion and Claude Code](https://yellowraincoat.co.uk/blog/animate-your-logo-with-remotion-and-claude-code "Animate your Logo with Remotion and Claude Code")
-* [Another Hat in the Ring](https://yellowraincoat.co.uk/blog/another-hat-in-the-ring "Another Hat in the Ring")<!-- /posts -->
+* [Animate your Logo with Remotion and Claude Code](https://yellowraincoat.co.uk/blog/animate-your-logo-with-remotion-and-claude-code "Animate your Logo with Remotion and Claude Code")<!-- /posts -->
 
 You can also find me on:
 
